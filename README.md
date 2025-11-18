@@ -1,1 +1,3 @@
-# CRUD-
+# CRUD ACTIVIDAD 04 PROGRA 1 UTEC
+
+Miguel Angel Cruz Olmedo 27-2723-2025
